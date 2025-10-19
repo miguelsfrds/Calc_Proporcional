@@ -5,11 +5,7 @@
 
 ## 👋 Sobre o Programa
 
-A **Calculadora de Proporcional** é um software desenvolvido em Python com **CustomTkinter** para calcular automaticamente o valor proporcional de mensalidades baseado nos dias de consumo.  
-- ✅ Arredondamento automático  
-- ✅ Desconto fixo de 10 centavos  
-- ✅ Copia o resultado para envio rápido  
-- ✅ Interface moderna e intuitiva  
+A **Calculadora de Proporcional** é um software desenvolvido em Python com **CustomTkinter** para calcular automaticamente o valor proporcional de mensalidades baseado nos dias de consumo. O objetivo do programa é automatizar e simplificar o cálculo proporcional de mensalidades, evitando erros manuais e agilizando o processo para pequenas empresas ou serviços que precisam calcular o consumo de clientes de forma rápida, precisa e prática. 
 
 ---
 
@@ -19,12 +15,6 @@ A **Calculadora de Proporcional** é um software desenvolvido em Python com **Cu
 - **CustomTkinter** – interface gráfica moderna  
 - **Pillow (PIL)** – manipulação de imagens  
 - **datetime, math, webbrowser** – módulos nativos do Python
-
----
-
-## 🎯 Objetivo do Programa
-
-Automatizar e simplificar o cálculo proporcional de mensalidades, evitando erros manuais e agilizando o processo para pequenas empresas ou serviços que precisam calcular o consumo de clientes de forma rápida, precisa e prática.
 
 ---
 
@@ -40,9 +30,7 @@ Automatizar e simplificar o cálculo proporcional de mensalidades, evitando erro
 
 ## 🚀 Modo de Instalação
 
-### ✅ Usando o programa pronto
-
-1. Baixe o arquivo do instalador na aba **[Releases](https://github.com/Teahwks/calc-proporcional/releases)**.  
+1. Baixe o arquivo do instalador na aba **[Releases](https://github.com/miguelsfrds/Calc_Proporcional/releases/tag/V2.0)**.  
 2. Execute o instalador (`CalculadoraProporcional_Setup.exe`).  
 3. Siga as instruções na tela.  
 4. Após a instalação, abra o programa pelo menu iniciar ou pelo atalho criado na área de trabalho.
