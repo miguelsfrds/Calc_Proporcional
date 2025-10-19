@@ -41,9 +41,11 @@ Automatizar e simplificar o cálculo proporcional de mensalidades, evitando erro
 ## 🚀 Modo de Instalação
 
 ### ✅ Usando o programa pronto
-1. Baixe o arquivo `.zip` na seção de releases  
-2. Extraia o conteúdo  
-3. Clique duas vezes em `calc_proporcional.exe` para abrir a calculadora
+
+1. Baixe o arquivo do instalador na aba **[Releases](https://github.com/Teahwks/calc-proporcional/releases)**.  
+2. Execute o instalador (`CalculadoraProporcional_Setup.exe`).  
+3. Siga as instruções na tela.  
+4. Após a instalação, abra o programa pelo menu iniciar ou pelo atalho criado na área de trabalho.
 
 ### ⚙️ Para estudar ou modificar o código
 1. Instale Python 3.x  
