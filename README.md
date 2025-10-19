@@ -1,4 +1,4 @@
-# Calculadora de Proporcional 
+# <img src="https://i.pinimg.com/originals/03/6b/29/036b2969dcd09ae9d16515681632121a.gif" alt="Interface da Calculadora" width="70"> Calculadora de Proporcional 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python) ![CustomTkinter](https://img.shields.io/badge/GUI-CustomTkinter-orange) ![Versão](https://img.shields.io/badge/Versão-v2.0-brightgreen) ![Licença](https://img.shields.io/badge/Licença-MIT-blue)
 
 ---
@@ -10,8 +10,6 @@ A **Calculadora de Proporcional** é um software desenvolvido em Python com **Cu
 - ✅ Desconto fixo de 10 centavos  
 - ✅ Copia o resultado para envio rápido  
 - ✅ Interface moderna e intuitiva  
-
-![Interface da Calculadora](imagens/interface_calc.png)
 
 ---
 
@@ -74,9 +72,9 @@ pip install customtkinter pillow
    - Dias consumidos  
    - Valor do desconto  
    - Botão para copiar texto pronto, por exemplo:
-     ```bash
-     REFERENTE AOS 18 UTILIZADOS DO MES 10
-      ```
+   ```bash
+   REFERENTE AOS 18 UTILIZADOS DO MES 10
+   ```
 ---
 
 ## 📌 Contato
