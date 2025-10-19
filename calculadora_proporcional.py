@@ -90,8 +90,7 @@ def calcula_consumo():
 
 interface = ctk.CTk()
 interface.title("Calculadora de Proporcional")
-interface.geometry("400x450")  # espaço para o link do GitHub
-interface.iconbitmap("D:\\estudos python\\calc_proporcional\\imagens\\icone.ico")
+interface.geometry("400x450")
 
 fonte_padrao = ("Consolas", 14)
 fonte_mensagem = ("Consolas", 12)
