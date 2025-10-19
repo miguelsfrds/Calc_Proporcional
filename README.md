@@ -1,5 +1,5 @@
 # <img src="https://i.pinimg.com/originals/03/6b/29/036b2969dcd09ae9d16515681632121a.gif" alt="Interface da Calculadora" width="70"> Calculadora de Proporcional 
-![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python) ![CustomTkinter](https://img.shields.io/badge/GUI-CustomTkinter-orange) ![Versão](https://img.shields.io/badge/Versão-v2.0-brightgreen) ![Licença](https://img.shields.io/badge/Licença-MIT-blue)
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python) ![CustomTkinter](https://img.shields.io/badge/GUI-CustomTkinter-orange) ![Versão](https://img.shields.io/badge/Versão-v2.0-brightgreen) ![Licença](https://img.shields.io/badge/Licen%C3%A7a-Uso%20Pessoal-orange)
 
 ---
 
