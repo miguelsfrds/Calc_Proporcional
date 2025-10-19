@@ -43,7 +43,7 @@ Automatizar e simplificar o cálculo proporcional de mensalidades, evitando erro
 ### ✅ Usando o programa pronto
 1. Baixe o arquivo `.zip` na seção de releases  
 2. Extraia o conteúdo  
-3. Clique duas vezes em `programa.exe` para abrir a calculadora
+3. Clique duas vezes em `calc_proporcional.exe` para abrir a calculadora
 
 ### ⚙️ Para estudar ou modificar o código
 1. Instale Python 3.x  
