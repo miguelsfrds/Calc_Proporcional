@@ -30,7 +30,7 @@ A **Calculadora de Proporcional** é um software desenvolvido em Python com **Cu
 
 ## 🚀 Modo de Instalação
 
-1. Baixe o arquivo do instalador na aba **[Releases](https://github.com/miguelsfrds/Calc_Proporcional/releases/tag/V2.0)**.  
+1. Baixe o arquivo do instalador na aba **[Releases](https://github.com/miguelsfrds/Calc_Proporcional/releases/tag/V2.1)**.  
 2. Execute o instalador (`CalculadoraProporcional_Setup.exe`).  
 3. Siga as instruções na tela.  
 4. Após a instalação, abra o programa pelo menu iniciar ou pelo atalho criado na área de trabalho.
