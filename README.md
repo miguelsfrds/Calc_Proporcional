@@ -70,5 +70,5 @@ pip install customtkinter pillow
 ## 📌 Contato
 
 - GitHub: [miguelsfrds](https://github.com/miguelsfrds)  
-- Versão do programa: v2.0  
+- Versão do programa: v2.1  
 - Para sugestões, melhorias ou reportar bugs, abra uma issue no GitHub.
