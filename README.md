@@ -48,7 +48,7 @@ Atualmente, o projeto conta com **duas versões**, permitindo melhor compatibili
 > Basta baixar o executável da versão desejada.
 
 🔽 **Baixe o programa pela página oficial de Releases:**  
-👉 **[Releases](https://github.com/miguelsfrds/Calc_Proporcional/releases/tag/V2.2)**
+👉 **[Releases](https://github.com/miguelsfrds/Calc_Proporcional/releases/tag/2.2)**
 
 Na página de *Releases* você encontrará:
 - 🖥️ **Versão moderna (CustomTkinter)**  
